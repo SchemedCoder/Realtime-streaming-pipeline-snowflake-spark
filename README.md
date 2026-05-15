@@ -12,7 +12,7 @@ PySpark
 Snowflake
 Streamlit
 Architecture
-Architecture
+
 
 #Features
 
@@ -21,7 +21,7 @@ Stream processing using Spark
 Data warehouse using Snowflake (Bronze → Silver → Gold)
 Interactive dashboard using Streamlit
 Dashboard
-Dashboard
+
 
 #How to Run
 

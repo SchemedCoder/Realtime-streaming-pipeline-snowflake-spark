@@ -1,11 +1,11 @@
 
 Real-Time Weather Data Engineering Pipeline
 
-#Overview
+Overview
 
 This project demonstrates an end-to-end real-time data engineering pipeline using modern tools.
 
-#Tech Stack
+Tech Stack
 
 Kafka
 PySpark

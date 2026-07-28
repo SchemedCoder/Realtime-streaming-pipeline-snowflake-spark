@@ -31,7 +31,7 @@ Run Spark Streaming Job
 Load data into Snowflake
 Run Streamlit dashboard
 
-#Key Learnings
+Key Learnings
 
 Streaming architecture
 Data pipeline design

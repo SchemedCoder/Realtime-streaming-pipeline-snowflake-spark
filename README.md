@@ -14,7 +14,7 @@ Streamlit
 Architecture
 
 
-#Features
+Features
 
 Real-time weather data ingestion
 Stream processing using Spark
@@ -23,7 +23,7 @@ Interactive dashboard using Streamlit
 Dashboard
 
 
-#How to Run
+How to Run
 
 Start Kafka
 Run Producer
